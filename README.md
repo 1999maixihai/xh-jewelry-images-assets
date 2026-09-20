@@ -1,2 +1,2 @@
 # XH-Jewelry-images-assets
-My image hosting via jsDelivr CDN
+Static image assets for the XH Jewelry landing page.
